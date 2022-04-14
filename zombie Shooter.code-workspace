@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "assets\\Player1"
+		},
+		{
+			"path": "assets\\player2"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501,
+		"liveServer.settings.multiRootWorkspaceName": "Zombie-Shooter-stage-1-main"
+	}
+}
